@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON PAU NA QUADRILHA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/18/items/fanart_20190929/icon.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/icon.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801409.us.archive.org/18/items/fanart_20190929/fanart.jpg</fanart>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/MULTICOLOR.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA!!! SEM FINS LUCRATIVOS, UTILIZAMOS APENAS LINKS DISPONIVEIS NA INTERNET, OS QUAIS TODOS TEM ACESSO LIVRIMENTE, APENAS AGRUPAMOS TAIS LINKS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,13 +15,43 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/18/items/fanart_20190929/ENTRADA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JESAIAS220/ADDONPAUNAQUADRILHA/master/CATEGORIA2</externallink>
-<fanart>https://ia801409.us.archive.org/18/items/fanart_20190929/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LANCAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES%202.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AQUI VOCE ENCONTRA DIVERSÃO GRATUITA SEM PILANTRAGEM DE COBRAR POR AQUILO QUE É DE GRAÇA, OS LINKS ESTÃO NA INTERNET, SO AGRUPAMOS PARA FACILITAR - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - DIVERSÃO EM DODRO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DESENHOS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/DESENHO%20ANIMADO.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/DESENHO%20ANIMADO%202.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] TV [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/TVS.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
