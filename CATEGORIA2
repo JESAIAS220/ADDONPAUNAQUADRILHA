@@ -1,13 +1,13 @@
 <canais>
 <canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR white] FILMES [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
-<thumbnail> https://ia801505.us.archive.org/32/items/fanart_20191003/filmes%40%40.png </thumbnail>
-<externallink> </externallink>
-<fanart> https://ia801505.us.archive.org/32/items/fanart_20191003/filmes%20%40%40%23.jpg </fanart>
+<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR darkorange] ||| [/ COLOR] [COLOR white] FILME - LANCAMENTOS [/ COLOR] [COLOR deeppink] | [/ COLOR] </name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
+<externallink></externallink>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/PLANETAS.jpg </fanart>
 <info>
 
 
-[COLOR deeppink] | [/ COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink] | [/ COLOR] </info>
+[COLOR deeppink] | [/ COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <canais>
 <canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] LANCAMENTOS [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
-<thumbnail> https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png</thumbnail>
-<externallink> </externallink>
-<fanart> https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES%202.jpg </fanart>
+<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR darkorange] ||| [/ COLOR] [COLOR white] SÉRIES [/ COLOR] [COLOR deeppink] | [/ COLOR] </name>
+<thumbnail> https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.cdnandroid.com%2F5c%2F32%2Fee%2F21%2Fb0%2Fimagen-seriesflixhd-0big.jpg&imgrefurl=https%3A%2F%2Fwww.androidlista.com.br%2Fitem%2Fandroid-apps%2F1028673%2Fseriesflixhd%2F&docid=Zm9Q9NGOe0mdXM&tbnid=4FcO0G7XBtqHiM%3A&vet=10ahUKEwiGyMyrovnkAhXDIrkGHUiuA4cQMwiYASg4MDg..i&w=800&h=640&bih=657&biw=1366&q=seriesflix&ved=0ahUKEwiGyMyrovnkAhXDIrkGHUiuA4cQMwiYASg4MDg&iact=mrc&uact=8 </thumbnail>
+<externallink></externallink>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES%202.jpg </fanart>
 <info>
 
 
-[COLOR deeppink] | [/ COLOR] - DIVERSÃO EM DODRO - [COLOR deeppink] | [/ COLOR] </info>
+[COLOR deeppink] | [/ COLOR] -  MELHORES SÉRIES - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
 
@@ -30,59 +30,31 @@
 
 <canais>
 <canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] SÉRIES [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
-<thumbnail> https://ia801502.us.archive.org/26/items/serie_201910/SERIE.png </thumbnail>
-<externallink> https: // </externallink>
-<fanart>https://ia801502.us.archive.org/26/items/serie_201910/SERIES.jpg </fanart>
+<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR darkorange] ||| [/ COLOR] [COLOR white] CRIANÇAS [/ COLOR] [COLOR deeppink] | [/ COLOR] </name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/DESENHO%20ANIMADO.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia601508.us.archive.org/25/items/fanart_20190930/DESENHO%20ANIMADO%202.jpg</fanart>
 <info>
 
 
-[COLOR deeppink] | [/ COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink] | [/ COLOR] </info>
+[COLOR deeppink] | [/ COLOR] - TUDO PARA CRIANÇADA - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<canais>
-<canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] DESENHOS [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
-<thumbnail>https://ia601508.us.archive.org/25/items/fanart_20190930/DESENHO%20ANIMADO.png</thumbnail>
-<externallink> https: // </externallink>
-<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/DESENHO%20ANIMADO%202.jpg </fanart>
-<info>
-
-
-[COLOR deeppink] | [/ COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink] | [/ COLOR] </info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <canais>
 <canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR white] ANIMES [/ COLOR] [COLOR orangered] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
-<thumbnail> https://ia801505.us.archive.org/32/items/fanart_20191003/anime%203.png </thumbnail>
-<externallink> https: // </externallink>
-<fanart> https://ia801505.us.archive.org/32/items/fanart_20191003/animes%202.jpg </fanart>
+<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR darkorange] ||| [/ COLOR] [COLOR white] TV [/ COLOR] [COLOR deeppink] | [/ COLOR] </name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
+<externallink></externallink>
+<fanart> https://ia601508.us.archive.org/25/items/fanart_20190930/TVS.jpg </fanart>
 <info>
 
 
-[COLOR deeppink] | [/ COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink] | [/ COLOR] </info>
+[COLOR deeppink] | [/ COLOR] - TV DE GRAÇA - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<canais>
-<canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR branco] TV em cores [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
-<thumbnail> https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
-<externallink> https: // </externallink>
-<fanart> https://ia801508.us.archive.org/25/items/fanart_20190930/TVS.jpg </fanart>
-<info>
-
-
-[COLOR deeppink] | [/ COLOR] -DIVERSÃO GARANTIDA - [COLOR deeppink] | [/ COLOR] </info>
-</channel>
-</channels>
