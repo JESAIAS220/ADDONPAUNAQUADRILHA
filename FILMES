@@ -1,9 +1,10 @@
+
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON PAU NA QUADRILHA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/icon.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES ANTIGOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://archive.org/download/ANTIGOS/ANTIGOS.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/PLANETAS.jpg</fanart>
+<fanart>https://ia801504.us.archive.org/16/items/ANTIGOS/FILMES%20ANTIGOS.jpg</fanart>
 <info>
 
 
@@ -15,14 +16,77 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/ENTRADA.png</thumbnail>
-<externallink> </externallink>
-<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/MULTICOLOR.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg</fanart>
 <info>
 
 
 [COLOR deeppink]|[/COLOR] - NÃO VISAMOS AQUI GANHAR LUCROS E SIM A DIVERSÃO. PAU NA QUADRILHA VEM PARA AJUDAR A ACABAR COM OS DESMANDOS DA QUADRILHA!!! - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES - TERROR - SUSPENSE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801503.us.archive.org/3/items/iconterror/ICON%20TERROR.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801503.us.archive.org/3/items/iconterror/download.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES - AÇÃO - AVENTURA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601503.us.archive.org/3/items/iconterror/A%C3%87%C3%83O.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801504.us.archive.org/1/items/acaoeaventura/A%C3%87%C3%83O%20E%20AVENTURA.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES DRAMA - AVENTURA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/32/items/fanart_20191003/filmes%40%40.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801504.us.archive.org/1/items/acaoeaventura/A%C3%87%C3%83O%20E%20AVENTURA.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES BRASILEIROS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801503.us.archive.org/3/items/iconterror/BRASILEIRO%201.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801503.us.archive.org/3/items/iconterror/BRASILEIRO%202.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
