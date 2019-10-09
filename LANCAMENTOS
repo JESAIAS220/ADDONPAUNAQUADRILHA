@@ -13,13 +13,37 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-JOGO DURO - [COR amarela] (2019) [/ COLOR] [COLOR lime] RESOLUÇÃO DO FILME [/ COLOR] </title>
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]JOGO DURO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
 <link>https://www.youtube.com/watch?v=ITaTbbG7ocw&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN&index=2&t=0s </link>
-<thumbnail> https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
-<fanart> https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg </fanart>
-<info> SINOPE </info>
-</item>
+<externallink>https://</externallink>
+<fanart>https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] Predadores Assassinos[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
+<link> https://redecanais.rocks/player3/RedeCanaisVTTS/vtts/RCFServer1/PRDRSASANS.jpg?1</link>
+<externallink>https://</externallink>
+<fanart>https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
  Predadores Assassinos - [COR amarela] (ANO DE LANÇAMENTO) [/ COLOR] [COLOR lime] 1080 RESOLUÇÃO DO FILME [/ COLOR] </title>
