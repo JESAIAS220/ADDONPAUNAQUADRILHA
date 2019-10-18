@@ -1,4 +1,4 @@
-  
+    
 <item>
 <title> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR darkorange] ||| [/ COLOR] [COLOR white] LANÇAMENTOS [/ COLOR] </title>
 <thumbnail> https://ia601403.us.archive.org/30/items/lancamentos_201909/LANCAMENTOS.png </thumbnail>
@@ -12,8 +12,8 @@ por JA
 
 
 <item>
-<title> [B] Rocketman - [COLOR deeppink] (2019) [/ COLOR] - [COLOR lime] (HD720) [/ COLOR] - DUBLADO [/ B] </title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/17GtvWgSEX4UxUbwxAH1i6C-DGo2JDXDU/view? usp = drivesdk </link>
+<title> [B] FAMILIA ADDANS - [COLOR deeppink] (2019) [/ COLOR] - [COLOR lime] (HD720) [/ COLOR] - DUBLADO [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://s-delivery4.mixdrop.co/v/904851cf21b3d98689119d1ab1bb4dfc.mp4?s=NeDESJK5HxIum0H_AW-ZtQ&e=1571448236 </link>
 <thumbnail> https://i.imgur.com/PVuMaME.jpg </thumbnail>
 <fanart> https://i.imgur.com/PVuMaME.jpg </fanart>
 <info> [COLOR green] [B] por [/ B] [/ COLOR] [COLOR mediumblue] [B] TWT [/ B] [/ COLOR] [COLOR deeppink] [B] utoriais [/ B] [/ COLOR ] - [COLOR lime] [B] Sinopse: [/ B] [/ COLOR] Cinebiografia do cantor e compositor Elton John, acompanha desde quando era uma criança prodígio até tornar um astro da música. </info>
@@ -21,9 +21,9 @@ por JA
 <item>
 
 <item>
-<title> [B] [COLOR lime] * NEW [/ COLOR] [/ B] [B] Homem-Aranha: Longe de Casa - [COLOR deeppink] (2019) [/ COLOR] - [COLOR lime] (FULLHD) [/ COLOR] - DUBLADO [/ B] </title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/15kKZUTyee9tJfyVVvQumJ1Bj91G38z1Q/view$$$namename [COLOR lime] FULLHD [/ COLOR] - ORIGINAL DE ÁUDIO </link>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1FWvMfOcGrglNURfn6uSQlvWyifGbIwTR/view$$$namename [COLOR lime] FULLHD [/ COLOR] - DUBLADO </link>
+<title> [B] [COLOR lime] * NEW [/ COLOR] [/ B] [B] Homem-Aranha: PROJETO GEMINI - [COLOR deeppink] (2019) [/ COLOR] - [COLOR lime] (FULLHD) [/ COLOR] - DUBLADO [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://woof.tube/gettoken/ahfVangPWh6~1571513219~2804:7f3::~A2rN1Cvx?mime=true$$$namename [COLOR lime] FULLHD [/ COLOR] - ORIGINAL DE ÁUDIO </link>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url =blob:http://player.aovivo.club/53a44ed7-bc2d-48b4-a9cd-b2cbdee556b4$$$namename [COLOR lime] FULLHD [/ COLOR] - DUBLADO </link>
 <link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/15KWOkUcvhKQaShWj3z9JNluyuRWzO9Zb/view$$lsname= [COLOR red] HDCAM [/ COLOR] - DUBLADO 1 </link>
 <link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1Y3wSQ0tRkSqgGdu9QBvHss0KCBK7ZOTP/view$$lsname= [COLOR red] HDCAM [/ COLOR] - DUBLADO 2 </link>
 <thumbnail> http://builds.repotwtutoriais.hostingerapp.com/spider.jpg </thumbnail>
@@ -31,3 +31,15 @@ por JA
 <info> [COLOR green] [B] por [/ B] [/ COLOR] [COLOR blue médio] [B] TWT [/ B] [/ COLOR] [COLOR deeppink] [B] utoriais [/ B] [/ COLOR ] - [COLOR lime] [B] Sinopse: [/ B] [/ COLOR] Peter Parker está de volta em Homem-Aranha: Longe de Casa, novo capítulo da série De Volta Ao Lar. O nosso amigo da vizinhança decide se é um dos seus melhores amigos para passar férias na Europa. Mas o plano de Peter de abandonar seus heróis feitos por algumas semanas é alterado quando ele ajuda Nick Fury a resolver o mistério de ataques de criaturas, criando uma destruição pelo continente ... </info>
 </item>
 <item>
+>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<
+#EXTM3U
+ 
+ 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO SP HD
+http://player.aovivo.club/185ace92-d40d-4878-9561-7160147c5103
+ 
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO RJ HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_b01c4d4ba8682546af0c2592d8a803746deca81c/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO BRASILIA SD
+http://nettv-xcruiser.com:8000/c4HtXQ6xmz/n2Ezc8yfjy/60217
