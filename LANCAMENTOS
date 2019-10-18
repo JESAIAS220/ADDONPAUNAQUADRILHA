@@ -10,23 +10,26 @@ https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view? usp = dr
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO BRASILIA SD
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_b01c4d4ba8682546af0c2592d8a803746deca81c/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="REDE RECORD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO NORDESTE HD
+#EXTINF:-1 tvg-id="RedeRECORD HD" tvg-name="REDE RECORD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE RECORDE",RECORD
 http://player.aovivo.club/05d14cb7-3532-4f85-8599-c480e87d7a2d
  
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO RBS HD
+#EXTINF:-1 tvg-id="AnimmalPlanet" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="ANIMAL PLANET", HD
 http://player.aovivo.club/82a21bc8-c332-4691-a1f5-f0341a7d2351
  
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AREIA MOVEDICA" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",AXN HD
-https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view?
+#EXTINF:-1 tvg-id="areiamovedica" tvg-name="AREIA MOVEDICA" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",ARREIA MOVEDICA
+https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view
  
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",AMC HD
+#EXTINF:-1 tvg-id="diasemfim" tvg-name="AMC HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",DIA SEM FIM HD
 https://s-delivery3.mixdrop.co/v/d9f90cf062a7f49e6aa1e05a5671448c.mp4?s=Bg7flcDtePfOe2iCBl7wog&e=1571454575
  
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO SP HD
-http://player.aovivo.club/185ace92-d40d-4878-9561-7160147c5103
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",MEGAPIX  HD
+http://player.aovivo.club/6e352cbc-bbed-43c9-bcbf-7d70c0f3c8f0
  
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO RJ HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_b01c4d4ba8682546af0c2592d8a803746deca81c/playlist.m3u8
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",MEGAPIX HD
+http://orthosie.tvcast.xyz/hls/s:155.138.226.22/megapix_a6f16ab4_f4160622a21c7858adfcb47d8f0fc0e4bd93b4f7/410p/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="REDE GLOBO",GLOBO BRASILIA SD
-http://nettv-xcruiser.com:8000/c4HtXQ6xmz/n2Ezc8yfjy/60217
+#EXTINF:-1 tvg-id="FamiliaAddans" tvg-name="FAMILIA ADDANS" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",CINEMAX HD
+https://s-delivery4.mixdrop.co/v/904851cf21b3d98689119d1ab1bb4dfc.mp4?s=uT9Pz5mlzGSUskr3moypMQ&e=1571455747
+ 
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",Familia Addans HD
+http://nettv-xcruiser.com:8000/c4HtXQ6xmz/n2Ezc8yfjy/60153
