@@ -52,10 +52,10 @@ https://s-delivery4.mixdrop.co/v/509ad61a23c933b680e8758982797868.mp4?s=YbT4dVps
 #EXTINF:-1 tvg-id="CORINGA" tvg-name="CORINGA" tvg-logo="https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg" group-title="CORINGA",CORINGA
 https://www162.hlsmp4.com/token=2axQ9rhnJ_kCa1MByjk56w/1571464369/2804:7f3::/50/1/5e/27d1bd81187c7d0812875ab65b0215e1-720p.mp4
  
-#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="SEEDS",SEEDS
+#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="https://image.tmdb.org/t/p/w780/SWIas3mWxuvfGeJG3EqgpWTMaJ.jpg" group-title="SEEDS",SEEDS
 https://woof.tube/gettoken/ShXduDE2sjt~1571536807~2804:7f3::~cB5lRCWQ?mime=true
 
-#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="SEEDS",SEEDS
+#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="https://image.tmdb.org/t/p/w780/SWIas3mWxuvfGeJG3EqgpWTMaJ.jpg" group-title="SEEDS",SEEDS
 https://www1919.hlsmp4.com/token=IbMl8c19FBzMERY-iqSfxg/1571464839/2804:7f3::/69/1/44/60240583a66d36d3c59b2e74f6d77441-720p.mp4
  
 #EXTINF:-1 tvg-id="OMistériodasGarotasPerdidas" tvg-name="O Mistério das Garotas Perdidas" tvg-logo="https://m.xilften.org/wp-content/uploads/play.png" group-title="O Mistério das Garotas Perdidas",O Mistério das Garotas Perdidas
@@ -70,7 +70,7 @@ https://huntley.best/bucket/t2/?v=71712-the-good-doctor/leg/s3e1.mp4
 #EXTINF:-1 tvg-id="BOMDOUTOR3TEMEP1" tvg-name="BOM DOUTOR 3TEM EP1"http://i.imgur.com/Zn9nQeO.jpg" group-title="BOM DOUTOR 3TEM EP1",BOM DOUTOR 3TEM EP1
 https://bucket-b02.unitplay.stream/tv/71712-the-good-doctor/leg/s3e1.mp4
  
-#EXTINF:-1 tvg-id="ATENTACAO" tvg-name="A TENTACAO" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="A TENTACAO",FA TENTACAO
+#EXTINF:-1 tvg-id="ATENTACAO" tvg-name="A TENTACAO" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="A TENTACAO",A TENTACAO
 https://huntley.best/bucket/v5/?v=63493-the-ledge.mp4
  
 #EXTINF:-1 tvg-id="ATENTACAO" tvg-name="A TENTACAO" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="A TENTACAO",A TENTACAO
@@ -78,9 +78,44 @@ http://bucket-v05.thepirate.me/hd/63493-the-ledge.mp4
 
 #EXTINF:-1 tvg-id="OSILENCIO" tvg-name="O SILENCIO" tvg-logo="https://m.xilften.org/wp-content/uploads/play.png" group-title="O SILENCIO",O SILENCIO
 https://huntley.best/bucket/v1/?v=527261-the-silence.mp4
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title> HISTORIAS ASSUSTADORAS PARA CONTAR </title>
+<link>https://www1738.hlsmp4.com/token=PIes4GFtM4UaTUNyOQdRlw/1571462838/2804:7f3::/76/6/76/005edb59ee4d132f3a67182354546766-720p.mp4</link>
+<thumbnail> ICONE </thumbnail>
+<fanart> https://image.tmdb.org/t/p/w780/spCU6e6opWCmA3Q0SdKhsMqo5OI.jpg </fanart>
+<info> SINOPE </info>
+</item>
+<item>
+<title> O CORINGA </title>
+<link>https://www162.hlsmp4.com/token=2axQ9rhnJ_kCa1MByjk56w/1571464369/2804:7f3::/50/1/5e/27d1bd81187c7d0812875ab65b0215e1-720p.mp4 </link>
+<thumbnail> ICONE </thumbnail>
+<fanart> https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg </fanart>
+<info> SINOPE </info>
+</item>
+
+<item>
+<title> TITULO </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url =https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view? usp = drivesdk? usp = drivesdk </link>
+<thumbnail> https://ia801400.us.archive.org/14/items/series_20191006/SERIES.png </thumbnail>
+<fanart> https://ia801409.us.archive.org/18/items/fanart_20190929/fanart.jpg </fanart>
+<info> SINOPE </info>
+</item>
+<item>
+
+<item>
+<title> TITULO </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view $$ lsname = [COR laranja] HD [/ COLOR] - AREIA MOVEDICA 1TEMP EP1 </link>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view$$ lsname = [COLOR orange] HD [/ COLOR] - AREIA MOVEDICA 1TEMP EP1</link>
+<link> https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view $$ lsname = [COLOR orange] HD [/ COLOR] - AREIA MOVEDICA 1TEMP EP1 </link>
+<thumbnail> https://ia801400.us.archive.org/14/items/series_20191006/SERIES.png </thumbnail>
+<fanart> https://ia801409.us.archive.org/18/items/fanart_20190929/fanart.jpg  </fanart>
+<info> SINOPE </info>
+</item>
 
 #EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 1
-https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view? usp = drivesdk
+https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view
 
 #EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 1
-https://r5---sn-bg0ezn7s.c.drive.google.com/videoplayback?id=f24e3d809dfee17d&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-bg0ezn7s&ms=nxu&mv=m&mvi=4&pl=36&sc=yes&ttl=transient&ei=oXqqXYTzENew0AWho6-4CA&susc=dr&driveid=181f_A-tkh0kpBJcWRdBxIYUCkplpAN06&app=texmex&mime=video/mp4&dur=2726.556&lmt=1570927301767482&mt=1571453486&ip=2804:7f3:38b:3273:fdf2:1b8:eea0:320c&ipbits=0&expire=1571468001&cp=QVNMU0VfV1BOQlhOOlh1OFhESXRlRk50&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,mvi,pl,sc,ttl,ei,susc,driveid,app,mime,dur,lmt,cp&signature=90268A5869EDE2D5DA00832540DAE7D15639C88424E0D023D1B278D3C4788A68.0134EA7912A11F448060E2ED400FE33DB1B37A1E24BCE1506BD5B6CC6F06C471&key=us0&cpn=5zygXFvkOB3JT6C3&c=WEB_EMBEDDED_PLAYER&cver=20191018
+https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view
