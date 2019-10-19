@@ -1,0 +1,35 @@
+#EXTM3U
+ 
+ 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i1.wp.com/top10mais.org/wp-content/uploads/2013/10/tv-globo.jpg?resize=580%2C224&ssl=1" group-title="REDE GLOBO",GLOBO SP HD
+https://r2---sn-bg07dnl7.c.2mdn.net/videoplayback/id/c0b92ce7548b3455/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3703409168/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/6271B96CD16A7C11DC7DD6F7B411E1F905BFF64D.1658BAF18F3B51B24B448BAC15533B89EA9AFDDC/key/cms1/cms_redirect/yes/mip/2804:7f3:38b:3273:79ff:93ca:21e4:ba52/mm/42/mn/sn-bg07dnl7/ms/onc/mt/1571517153/mv/m/mvi/1/pl/36/file/file.mp4
+ 
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i1.wp.com/top10mais.org/wp-content/uploads/2013/10/tv-globo.jpg?resize=580%2C224&ssl=1" group-title="REDE GLOBO",GLOBO RJ HD
+https://r2---sn-bg07dnl7.c.2mdn.net/videoplayback/id/c0b92ce7548b3455/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3703409168/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/6FA68DEC3F42DB9F2005C5A8506203944CB615B1.2BFDE18DD70B0CC556C52CBD07F86A9F5E19F381/key/cms1/cms_redirect/yes/mip/2804:7f3:38b:3273:79ff:93ca:21e4:ba52/mm/42/mn/sn-bg07dnl7/ms/onc/mt/1571517332/mv/m/mvi/1/pl/36/file/file.mp4
+ 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="BAND",BAND
+http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_35125eefea05e47302840c4842613f041bee8e3e/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-globo-nordeste-ao-vivo.png" group-title="REDE GLOBO",GLOBO NORDESTE HD
+https://live.multicanais.com/live/globosphd/chunks.m3u8?md5=owTr3aslsHrvBL0yZav7NA&expires=1571523106
+ 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1.png" group-title="SBT",SBT	
+http://edge.aovivo.club/hls/s:155.138.226.22/sbtsp_2a5ac580_9c87e070b4184c730e91545cb9a17f3960f51836/410p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="ttp://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="RECORD",RECORD	
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b898048.m3u8
+
+#EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL	
+http://172.105.149.61/hls/s:155.138.227.45/redebrasil_c2548064_395b4386c2ed61121b5c29b26dc2402a4559b845/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w406703580.m3u8
+
+#EXTINF:-1 tvg-id="TVBRASIL" tvg-name="TV BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="TV BRASIL",TV BRASIL
+https://www.youtube.com/watch?v=WTv02F5iQ44
+
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="REDE TV",REDE TV
+https://r2---sn-bg07dnl7.c.2mdn.net/videoplayback/id/c0b92ce7548b3455/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3703409168/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/2D1AC4182BBC90AA03E9AC4338D5B2A974CA2305.36709D465CA2E7549B443D3548678349F87E6B50/key/cms1/cms_redirect/yes/mip/2804:7f3:38b:3273:79ff:93ca:21e4:ba52/mm/42/mn/sn-bg07dnl7/ms/onc/mt/1571519792/mv/m/mvi/1/pl/36/file/file.mp4
+
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="REDE TV",REDE TV
+http://172.105.148.146/hls/s:155.138.226.22/redetv_45cbe19f_f2db65caa68944d86a8fe9160968570e21b7c456/270p/chunklist.m3u8
