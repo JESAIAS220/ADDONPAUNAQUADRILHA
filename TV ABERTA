@@ -2,7 +2,7 @@
  
  
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i1.wp.com/top10mais.org/wp-content/uploads/2013/10/tv-globo.jpg?resize=580%2C224&ssl=1" group-title="REDE GLOBO",GLOBO SP HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_81a717807f87aae15fc9012c5677aa29604b382f/playlist.m3u8
+https://live01.video.globo.com/d/m/nl/s/hls-globo-go01/hls-globo-go01_2126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i1.wp.com/top10mais.org/wp-content/uploads/2013/10/tv-globo.jpg?resize=580%2C224&ssl=1" group-title="REDE GLOBO",GLOBO SP HD
 http://172.105.150.112/hls/s:95.216.15.44:81/globosp_cfe21c68_81a717807f87aae15fc9012c5677aa29604b382f/playlist.m3u8
@@ -13,14 +13,32 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_4bc5eb05dfa9c0e
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="BAND",BAND
 http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_35125eefea05e47302840c4842613f041bee8e3e/playlist.m3u8
  
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="BAND",BAND	
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w2105798830.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="BAND",BAND
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w2105798830.m3u8
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1.png" group-title="SBT",SBT	
 http://edge.aovivo.club/hls/s:155.138.227.156/sbtsp_2a5ac580_9c87e070b4184c730e91545cb9a17f3960f51836/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1.png" group-title="SBT",SBT	
+https://r3---sn-b8u-btoz.googlevideo.com/videoplayback?expire=1571613818&ei=GpisXY2vEIffwgSK54mYDQ&ip=2804%3A7f3%3A38b%3A3273%3A79ff%3A93ca%3A21e4%3Aba52&id=9z_8k1Ir-6U.1&itag=140&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-b8u-btoz%2Csn-bg07dnll&ms=lva%2Crdu&mv=m&mvi=2&pl=36&gcr=br&initcwndbps=720000&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1571592144&fvip=4&keepalive=yes&fexp=23842630&beids=9466588&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRQIgRFGTTCk9lfYBUHnjU1x5Zh-4Fva975ln8jQouj-WVrACIQCI28VlQMQBHQjHYzJXeLbv3xFCwuD9RAOPFd27TjGxKw%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgO3MP42YVti3F0-tl109oBsAtBQ-MUkPyLCB711y3bDYCIEPek9LP5j-_u1WtkibXnG2gJOe3WydSD4pYuptaaLjk&alr=yes&cpn=w3dBHTCtiEYlt7uw&cver=20191018&headm=3&rn=11&rbuf=0
  
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1.png" group-title="SBT",SBT
+https://live.multicanais.com/mylive/sbtsd/chunks.m3u8?md5=zNBL_1KVpv3BlOtTUNcU1g&expires=1571597852
+
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="ttp://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="RECORD",RECORD	
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b898048.m3u8
 
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL	
 http://172.105.149.61/hls/s:155.138.227.45/redebrasil_c2548064_395b4386c2ed61121b5c29b26dc2402a4559b845/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL
+https://r3---sn-bg07dnsr.c.2mdn.net/videoplayback/id/8bdf1a936b2d71d2/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3715558405/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/3890AC529F43DA11947008AB2D5678CC1E23FC60.7E62A3DFB6E5749E0809F9DDA86ACEBEEEEC6A60/key/cms1/cms_redirect/yes/mip/2804:7f3:38b:3273:79ff:93ca:21e4:ba52/mm/42/mn/sn-bg07dnsr/ms/onc/mt/1571592868/mv/m/mvi/2/pl/36/file/file.mp4
+
+#EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2098977889.m3u8
 
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w406703580.m3u8
@@ -33,3 +51,6 @@ https://r2---sn-bg07dnl7.c.2mdn.net/videoplayback/id/c0b92ce7548b3455/itag/346/s
 
 #EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="REDE TV",REDE TV
 http://172.105.148.146/hls/s:155.138.226.22/redetv_45cbe19f_f2db65caa68944d86a8fe9160968570e21b7c456/270p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="REDE TV",REDE TV
+https://r3---sn-bg0ezn7l.c.2mdn.net/videoplayback/id/39b601fcde0bff86/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3713951801/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/131D1932618A877EB98F191A200954FF9457FBDE.07A9B81D8F7BA15A7D8F633BB4768E931D21F9A6/key/cms1/cms_redirect/yes/mip/2804:7f3:38b:3273:79ff:93ca:21e4:ba52/mm/42/mn/sn-bg0ezn7l/ms/onc/mt/1571593050/mv/m/mvi/2/pl/36/file/file.mp4
