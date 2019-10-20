@@ -13,11 +13,11 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_8e600c536c521d38d
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="COLOCARLOGO" group-title="FILMES/SERIES",CANAL SONY HD
 http://edge.aovivo.club/hls/s:155.138.226.22/sony_06349be7_ceb85eda6f8ceac451ecc2b534c5c8bfd6283dbb/410p/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://i.imgur.com/Zn9nQeO.jpg" group-title="FILMES/SERIES",CINEMAX HD
-http://nettv-xcruiser.com:8000/c4HtXQ6xmz/n2Ezc8yfjy/60166
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Cinemax-Ao-vivo-Online-Gr%C3%A1tis.png" group-title="FILMES/SERIES",CINEMAX HD
+https://live.multicanais.com/live/cinemaxsd/chunks.m3u8?md5=01ywZGFW7Qd5zUX4YTXjuw&expires=1571543730
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/megapix.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/megapix_a6f16ab4_85f2789f69508f57fa2dd9a3de45649c7d9fee2f/playlist.m3u8
+https://live.multicanais.com/live/megapixsd/chunks.m3u8?md5=uaWcL6ickd9K3RXkzc491Q&expires=1571543191
  
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/paramount.png" group-title="FILMES/SERIES",PARAMOUNT CHANNEL HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_2c2908931370a6fd47938f683739a0d20986cd7a.m3u8
@@ -29,4 +29,4 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b177dfd07dd4c3c7576
 http://edge.aovivo.club/hls/s:155.138.226.22/tcm_13b72490_e1fdb7fde7eb86751972ee81cd5862a0f7ec1887/410p/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt.png" group-title="FILMES/SERIES",TNT SERIES HD
-http://172.105.148.165/hls/s:95.216.15.44:81/tnt_9109c85a_5868572056a40cc37c7dc7b81a56ae0020c1f73e.m3u8
+https://live.multicanais.com/live/tntseriessd/chunks.m3u8?md5=Y7D0-aTSCaZEnZoBWmVahQ&expires=1571542803 
