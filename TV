@@ -1,4 +1,4 @@
-<channels>
+<channel>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV ABERTA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
@@ -32,7 +32,7 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES E SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JESAIAS220/ADDONPAUNAQUADRILHA/master/FILMES%20E%20SERIES</externallink>
 <fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/TVS.jpg</fanart>
 <info>
 
@@ -76,6 +76,21 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]INTERNACIONAL[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/TVS.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADDON PAU NA QUADRILHA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOTICIARIO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801508.us.archive.org/25/items/fanart_20190930/TV2.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801508.us.archive.org/25/items/fanart_20190930/TVS.jpg</fanart>
