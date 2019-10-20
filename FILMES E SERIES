@@ -8,25 +8,25 @@ http://edge.aovivo.club/hls/s:155.138.227.156/axn_cb7a1d77_cfd695a23d99f72a98e40
 http://edge.aovivo.club/hls/s:45.32.217.66/amcbrasil_b7f5113f_bf03ff87c3101f6e359b9825a93108acbf71bfd5/410p/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/ae.png" group-title="FILMES/SERIES",A&E HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_8e600c536c521d38d9c44b7c132cffdb9109c805/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_d0df5022971e781f8eec929847d95748bb3c757f/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="COLOCARLOGO" group-title="FILMES/SERIES",CANAL SONY HD
 http://edge.aovivo.club/hls/s:155.138.226.22/sony_06349be7_ceb85eda6f8ceac451ecc2b534c5c8bfd6283dbb/410p/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Cinemax-Ao-vivo-Online-Gr%C3%A1tis.png" group-title="FILMES/SERIES",CINEMAX HD
-http://edge.aovivo.club/hls/s:155.138.227.156/cinemax480p_22d200f8_ab0f6a2ac429a48db767f534793c188438730fc0/410p/chunklist.m3u8
+http://eirene.tvcast.xyz/hls/s:95.216.15.44:81/cinemax720p_49117359_c8832e5fc61e868d90ccc47b1099ffeece135420/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/megapix.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
-http://edge.aovivo.club/hls/s:155.138.227.156/megapix_a6f16ab4_6c8b2d139f7bfc0101428b1270329ff9f3643295/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/megapix_a6f16ab4_6c8b2d139f7bfc0101428b1270329ff9f3643295/410p/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/paramount.png" group-title="FILMES/SERIES",PARAMOUNT CHANNEL HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_2c2908931370a6fd47938f683739a0d20986cd7a.m3u8
  
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="FILMES/SERIES",SPACE HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b177dfd07dd4c3c7576aba214f187df6745729a5/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_1eb0619ca3bc5ef01d53ade2ee3d6a4ce98f588d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcm.png" group-title="FILMES/SERIES",TCM HD
-http://edge.aovivo.club/hls/s:155.138.226.22/tcm_13b72490_e1fdb7fde7eb86751972ee81cd5862a0f7ec1887/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/tcm_13b72490_03f64fffd1317cf8b27e182b4002350dbc3fafa3/410p/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt.png" group-title="FILMES/SERIES",TNT SERIES HD
 http://172.105.148.165/hls/s:95.216.15.44:81/tnt_9109c85a_5868572056a40cc37c7dc7b81a56ae0020c1f73e.m3u8
