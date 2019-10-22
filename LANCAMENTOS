@@ -1,40 +1,7 @@
-
 <item>
-<title> AREIA MOVEDICA 1</title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view? usp = drivesdk </link>
+TITULO - [COR amarela] (ANO DE LANÇAMENTO) [/ COLOR] [COLOR lime] RESOLUÇÃO DO FILME [/ COLOR] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/15dr7PGYTSWxGeXUZTRy0EK_elD0QLv8h/view?? usp = drivesdk </link>
 <thumbnail> ICONE </thumbnail>
-<fanart> IMAGENS DE FUNDO </fanart>
-<info> SINOPE </info>
-</item>
-
-<item>
-<title>AREIA MOVEDICA 2</title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/15dr7PGYTSWxGeXUZTRy0EK_elD0QLv8h/view? usp = drivesdk </link>
-<thumbnail> ICONE </thumbnail>
-<fanart> IMAGENS DE FUNDO </fanart>
-<info> SINOPE </info>
-</item>
-
-<item>
-<title> AREIA MOVEDICA 3</title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/1qeWljc4O5FkcFWcovB5wuTdYhIX9HUG9/view? usp = drivesdk </link>
-<thumbnail> ICONE </thumbnail>
-<fanart> IMAGENS DE FUNDO </fanart>
-<info> SINOPE </info>
-</item>
-
-<item>
-<title> AREIA MOVEDICA 4 </title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/1gsKY6k4yv4d1wk7GCSofzOTqq0G-fs0T/view? usp = drivesdk </link>
-<thumbnail> ICONE </thumbnail>
-<fanart> IMAGENS DE FUNDO </fanart>
-<info> SINOPE </info>
-</item>
-
-<item>
-<title>AREIA MOVEDICA 5</title>
-https://docs.google.com/file/d/1zPQrdz3bMC5Wd-1l1b0HQ3VcLDo8AC7W/view 
-<thumbnail> ICONE </thumbnail>
-<fanart> IMAGENS DE FUNDO </fanart>
+<fanart> IMAGEM DE FUNDO </fanart>
 <info> SINOPE </info>
 </item>
