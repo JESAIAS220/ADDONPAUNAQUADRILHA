@@ -1,7 +1,22 @@
 <item>
-TITULO - [COR amarela] (ANO DE LANÇAMENTO) [/ COLOR] [COLOR lime] RESOLUÇÃO DO FILME [/ COLOR] </title>
-<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/15dr7PGYTSWxGeXUZTRy0EK_elD0QLv8h/view?? usp = drivesdk </link>
-<thumbnail> ICONE </thumbnail>
-<fanart> IMAGEM DE FUNDO </fanart>
+TITULO Predadores Assassinos - [COR amarela] (ANO DE LANÇAMENTO) [/ COLOR] [COLOR lime] 1080 RESOLUÇÃO DO FILME [/ COLOR] </title>
+<link> https://redecanais.rocks/player3/RedeCanaisVTTS/vtts/RCFServer1/PRDRSASANS.jpg?1</link>
+<thumbnail>  https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
+<fanart> https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg </fanart>
+<info> SINOPE </info>
+</item>
+<item>
+TITULO - Você Nunca Esteve Realmente Aqui [COR amarela] (2019) [/ COLOR] [COLOR lime] 1280 [/ COLOR] </title>
+<link> https://redecanais.rocks/player3/RedeCanaisVTTS/vtts/RCFServer1/VCNUCESTVRELMTAKI.jpg?1 </link>
+<thumbnail> https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
+<fanart> https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg </fanart>
+<info></info>
+</item>
+
+<item>
+TITULO Escola de solteiras - [COR amarela] (2019) [/ COLOR] [COLOR lime] RESOLUÇÃO DO FILME [/ COLOR] </title>
+<link> http://cdnfe3.azureedge.net/RCFServer1/ondemand/ESCLDSLTRS.mp4?attachment=true </link>
+<thumbnail> https://ia801508.us.archive.org/25/items/fanart_20190930/FILMES.png </thumbnail>
+<fanart> https://ia801503.us.archive.org/3/items/iconterror/filmes%20%40%40%23.jpg </fanart>
 <info> SINOPE </info>
 </item>
