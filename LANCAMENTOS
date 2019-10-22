@@ -1,172 +1,40 @@
-#EXTM3U
- 
- 
-#EXTINF:-1 tvg-id="diasemfim" tvg-name="DIA SEM FIM" tvg-logo="https://image.tmdb.org/t/p/w780/8scZqNr9psHZyjdy6pUC99GaLC5.jpg" group-title="DIA SEM FIM",DIA SEM FIM HD
-https://www1989.hlsmp4.com/token=F_CA0s4AthyqvGGOYPQMFg/1571724353/2804:7f3::/77/d/87/da6db2044fc3bad9945f9a157461487d-720p.mp4
 
-#EXTINF:-1 tvg-id="diasemfim" tvg-name="DIA SEM FIM" tvg-logo="https://image.tmdb.org/t/p/w780/8scZqNr9psHZyjdy6pUC99GaLC5.jpg" group-title="DIA SEM FIM",DIA SEM FIM HD
-https://www1989.hlsmp4.com/token=F_CA0s4AthyqvGGOYPQMFg/1571724353/2804:7f3::/77/d/87/da6db2044fc3bad9945f9a157461487d-720p.mp4
+<item>
+<title> AREIA MOVEDICA 1</title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/181f_A-tkh0kpBJcWRdBxIYUCkplpAN06/view? usp = drivesdk </link>
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
+</item>
 
-#EXTINF:-1 tvg-id="FAMILIAADDANS" tvg-name="FAMILIA ADDANS" tvg-logo="https://image.tmdb.org/t/p/w780/nHZpVTiGLj0GXP3D9bFbmvzw73y.jpg" group-title="FAMILIA ADDANS",FAMILIA ADDANS
-https://www1201.hlsmp4.com/token=yIudeBenA4c59QBEJER8ug/1571724492/2804:7f3::/77/f/62/5a682851e08468a367f816e8de37c62f-720p.mp4
+<item>
+<title>AREIA MOVEDICA 2</title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/15dr7PGYTSWxGeXUZTRy0EK_elD0QLv8h/view? usp = drivesdk </link>
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
+</item>
 
-#EXTINF:-1 tvg-id="FAMILIAADDANS" tvg-name="FAMILIA ADDANS" tvg-logo="https://image.tmdb.org/t/p/w780/nHZpVTiGLj0GXP3D9bFbmvzw73y.jpg" group-title="FAMILIA ADDANS",FAMILIA ADDANS
-https://www1201.hlsmp4.com/token=yIudeBenA4c59QBEJER8ug/1571724492/2804:7f3::/77/f/62/5a682851e08468a367f816e8de37c62f-720p.mp4
- 
-#EXTINF:-1 tvg-id="PROJETOGEMINI" tvg-name="PROJETO GEMINI" tvg-logo="https://image.tmdb.org/t/p/w780/c3F4P2oauA7IQmy4hM0OmRt2W7d.jpg" group-title="PROJETO  GEMINI",PROJETO GEMINI
-https://woof.tube/gettoken/2MCCzxPZ613~1571794988~2804:7f3::~QTUA9q43?mime=true
-#EXTINF:-1 tvg-id="PROJETOGEMINI" tvg-name="PROJETO GEMINI" tvg-logo="https://image.tmdb.org/t/p/w780/c3F4P2oauA7IQmy4hM0OmRt2W7d.jpg"PROJETO  GEMINI",PROJETO GEMINI
-https://www407.hlsmp4.com/token=o_8KmRycb7ihnjmXKnfQyA/1571539845/2804:7f3::/78/d/bb/912fe676632a0f0365849a964dfacbbd-720p.mp4
- 
-#EXTINF:-1 tvg-id="HISTORIASASSUSTADORASPARACONTARNOESCURO" tvg-name="HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCCURO" tvg-logo="https://image.tmdb.org/t/p/w780/spCU6e6opWCmA3Q0SdKhsMqo5OI.jpg" group-title="HISTORIAS ASSUSTADORAS PARA CONTAR",HISTORIAS ASSUSTADORAS PARA CONTAR
-https://www1738.hlsmp4.com/token=EC34-UN1CvWz51LxwAIAQQ/1571724755/2804:7f3::/76/6/76/005edb59ee4d132f3a67182354546766-720p.mp4
+<item>
+<title> AREIA MOVEDICA 3</title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/1qeWljc4O5FkcFWcovB5wuTdYhIX9HUG9/view? usp = drivesdk </link>
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
+</item>
 
-#EXTINF:-1 tvg-id="HISTORIASASSUSTADORASPARACONTARNOESCURO" tvg-name="HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCURO" tvg-logo="https://image.tmdb.org/t/p/w780/spCU6e6opWCmA3Q0SdKhsMqo5OI.jpg" group-title="HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCURO",HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCURO
-https://www1738.hlsmp4.com/token=EC34-UN1CvWz51LxwAIAQQ/1571724755/2804:7f3::/76/6/76/005edb59ee4d132f3a67182354546766-720p.mp4
+<item>
+<title> AREIA MOVEDICA 4 </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https://drive.google.com/file/d/1gsKY6k4yv4d1wk7GCSofzOTqq0G-fs0T/view? usp = drivesdk </link>
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
+</item>
 
-#EXTINF:-1 tvg-id="HISTORIASASSUSTADORASPARACONTARNOESCURO" tvg-name="HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCURO" tvg-logo="https://image.tmdb.org/t/p/w780/spCU6e6opWCmA3Q0SdKhsMqo5OI.jpg" group-title="HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCURO",HISTORIAS ASSUSTADORAS PARA CONTAR NO ESCURO
-https://www1738.hlsmp4.com/token=EC34-UN1CvWz51LxwAIAQQ/1571724755/2804:7f3::/76/6/76/005edb59ee4d132f3a67182354546766-720p.mp4
- 
-#EXTINF:-1 tvg-id="MALEVOLADONADOMAL" tvg-name="MALEVOLA DONA DO MAL" tvg-logo="https://image.tmdb.org/t/p/w780/HmEXofYSc56wBHIqY6tJDroCSw.jpg" group-title="MALEVOLA DONA DO MAL",MALEVOLA DONA DO MAL
-https://www280.hlsmp4.com/token=ogv5phio7g86AqgE9YUpNA/1571539700/2804:7f3::/80/9/70/00eb312bb5c75278940939936c578709-720p.mp4
-
-#EXTINF:-1 tvg-id="MALEVOLADONADOMAL" tvg-name="MALEVOLA DONA DO MAL" tvg-logo="https://image.tmdb.org/t/p/w780/HmEXofYSc56wBHIqY6tJDroCSw.jpg" group-title="MALEVOLA DONA DO MAL",MALEVOLA DONA DO MAL
-https://s-delivery4.mixdrop.co/v/8f963cd672e0ecfd6694f5e902cb2d53.mp4?s=p0OdzesgGOBFjheijn_Z1w&e=1571729963
- 
-#EXTINF:-1 tvg-id="MEUSDIASDEPAIXAO" tvg-name="MEUS DIAS DE PAIXAO" tvg-logo="https://image.tmdb.org/t/p/w780/vh51P2FhAZxpglbH1fLmo5zxPyB.jpg" group-title="MEUS DIAS DE PAIXAO",MEUS DIAS DE PAIXAO
-https://woof.tube/gettoken/DoA2gbZEPG7~1571612866~2804:7f3::~YVwNBH2y?mime=true
-
-#EXTINF:-1 tvg-id="MEUSDIASDEPAIXAO" tvg-name="MEUS DIAS DE PAIXAO" tvg-logo="https://image.tmdb.org/t/p/w780/vh51P2FhAZxpglbH1fLmo5zxPyB.jpg" group-title="MEUS DIAS DE PAIXAO",MEUS DIAS DE PAIXAO
-https://www1243.hlsmp4.com/token=sqhNx2LWQHuDL-OUspj7lA/1571723202/2804:7f3::/61/f/49/cd2675212ae10cbdc2ed06d90900349f-720p.mp4
-
-#EXTINF:-1 tvg-id="MEUSDIASDEPAIXAO" tvg-name="MEUS DIAS DE PAIXAO" tvg-logo="https://image.tmdb.org/t/p/w780/vh51P2FhAZxpglbH1fLmo5zxPyB.jpg" group-title="MEUS DIAS DE PAIXAO",MEUS DIAS DE PAIXAO
-https://www1243.hlsmp4.com/token=UlJ4oTFDSqwC1_99KJ3C0Q/1571602125/2804:7f3::/61/f/49/cd2675212ae10cbdc2ed06d90900349f-720p.mp4
-
-#EXTINF:-1 tvg-id="ANGRYBIRD2" tvg-name="ANGRY BIRD 2" tvg-logo="https://image.tmdb.org/t/p/w780/k7sE3loFwuU2mqf7FbZBeE3rjBa.jpg" group-title="ANGRY BIRD 2",ANGRY BIRD 2
-https://woof.tube/gettoken/63XWrmyWwGS~1571535946~2804:7f3::~YszrI8es?mime=true
-
-#EXTINF:-1 tvg-id="ANGRYBIRD2" tvg-name="ANGRY BIRD 2" tvg-logo="https://image.tmdb.org/t/p/w780/k7sE3loFwuU2mqf7FbZBeE3rjBa.jpg" group-title="ANGRY BIRD 2",ANGRY BIRD 2
-https://woof.tube/gettoken/WdNFFgZb5JN~1571794893~2804:7f3::~Oa2AAOWt?mime=true
-
-#EXTINF:-1 tvg-id="ANGRYBIRD2" tvg-name="ANGRY BIRD 2" tvg-logo="https://image.tmdb.org/t/p/w780/k7sE3loFwuU2mqf7FbZBeE3rjBa.jpg" group-title="ANGRY BIRD 2",ANGRY BIRD 2
-https://www2023.hlsmp4.com/token=rLmtRTt7nwJ4v_3uU22OEA/1571602319/2804:7f3::/14/7/fa/9d4f0a1ef6125017e634fff5fbb2afa7-720p.mp4
- 
-#EXTINF:-1 tvg-id="CORINGA" tvg-name="CORINGA" tvg-logo="https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg" group-title="CORINGA",CORINGA
-https://s-delivery4.mixdrop.co/v/509ad61a23c933b680e8758982797868.mp4?s=7hol9h66KmjmY5WC2rF2FQ&e=1571730283
- 
-#EXTINF:-1 tvg-id="CORINGA" tvg-name="CORINGA" tvg-logo="https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg" group-title="CORINGA",CORINGA
-https://s-delivery4.mixdrop.co/v/509ad61a23c933b680e8758982797868.mp4?s=YbT4dVpsDDGpJTgX0RfZRw&e=1571471424
-
-#EXTINF:-1 tvg-id="CORINGA" tvg-name="CORINGA" tvg-logo="https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg" group-title="CORINGA",CORINGA
-https://www162.hlsmp4.com/token=2axQ9rhnJ_kCa1MByjk56w/1571464369/2804:7f3::/50/1/5e/27d1bd81187c7d0812875ab65b0215e1-720p.mp4
-
-#EXTINF:-1 tvg-id="CORINGA" tvg-name="CORINGA" tvg-logo="https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg" group-title="CORINGA",CORINGA
-https://www1031.hlsmp4.com/token=RCxbRzfiT4NIOFjR8XUnMA/1571602438/2804:7f3::/50/1/5e/27d1bd81187c7d0812875ab65b0215e1-720p.mp4
- 
-#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="https://image.tmdb.org/t/p/w780/SWIas3mWxuvfGeJG3EqgpWTMaJ.jpg" group-title="SEEDS",SEEDS
-https://woof.tube/gettoken/ShXduDE2sjt~1571536807~2804:7f3::~cB5lRCWQ?mime=true
-
-#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="https://image.tmdb.org/t/p/w780/SWIas3mWxuvfGeJG3EqgpWTMaJ.jpg" group-title="SEEDS",SEEDS
-https://www1214.hlsmp4.com/token=kSC_prt7j0p9NeDumgvCXA/1571542693/2804:7f3::/69/1/44/60240583a66d36d3c59b2e74f6d77441-720p.mp4
-
-#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="https://image.tmdb.org/t/p/w780/SWIas3mWxuvfGeJG3EqgpWTMaJ.jpg" group-title="SEEDS",SEEDS
-https://www1972.hlsmp4.com/token=exBpVwpBU3A-cN3OlZLxfg/1571725612/2804:7f3::/69/1/44/60240583a66d36d3c59b2e74f6d77441-720p.mp4
-
-#EXTINF:-1 tvg-id="SEEDS" tvg-name="SEEDS" tvg-logo="https://image.tmdb.org/t/p/w780/SWIas3mWxuvfGeJG3EqgpWTMaJ.jpg" group-title="SEEDS",SEEDS leg
-https://www1972.hlsmp4.com/token=exBpVwpBU3A-cN3OlZLxfg/1571725612/2804:7f3::/69/1/44/60240583a66d36d3c59b2e74f6d77441-720p.mp4
- 
-#EXTINF:-1 tvg-id="DaughteroftheWolf" tvg-name="Daughter of the Wolf" tvg-logo="https://image.tmdb.org/t/p/w780/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg" group-title="Daughter of the Wolf",Daughter of the Wolf
-https://www1237.hlsmp4.com/token=VO-DqQQsngmvTdseu_JdQA/1571605871/2804:7f3::/74/e/8d/013d9d67626b4b8f70a68c724b9178de-720p.mp4
-
-#EXTINF:-1 tvg-id="comDeusnocaminho" tvg-name="COM DEUS NO CAMINHO" tvg-logo="https://filmesonlinehd1.net/wp-content/uploads/2019/07/rC3hlLHzQQKVNqAQ1fCigQeszCt-1.jpg" group-title="COM DEUS NO CAMINHO",COM DEUS NO CAMINHO
-https://www1770.hlsmp4.com/token=uqIrSOSenCKj6nLPq18CLQ/1571606261/2804:7f3::/51/2/40/bd45a46722e4d61d21c402c620be4402-720p.mp4
- 
-#EXTINF:-1 tvg-id="BOMDOUTOR3TEMEP1" tvg-name="BOM DOUTOR 3TEM EP1"https://comando4kfilmes.com/wp-content/uploads/2019/10/The-Good-Doctor.jpg" group-title="BOM DOUTOR 3TEM EP1",BOM DOUTOR 3TEM EP1
-https://r3---sn-bg07dnze.googlevideo.com/videoplayback?noexpire=1571810036&ei=c3qvXe_rOsSY7gKQ_anQBA&ip=2804:7f3:38b:3273:f8a8:2cf4:bac9:f226&id=6f232f3ff854f2d9&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2590.905&lmt=1569536942933874&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ALgxI2wwRQIhAK0JBp2eL7SdgtCLWRSN-CCeQDy0m4l7gzTNBxDdDRbDAiA9IXJGX1moQUp9Wa5_FuG2bxuhTU8dzjlNQ-kxAn-sYA%3D%3D&cpn=tw1JEiBidteMMt-P&c=WEB_EMBEDDED_PLAYER&cver=20191018&redirect_counter=1&cm2rm=sn-b8u-btoz7s&req_id=485a12c3cb7d36e2&cms_redirect=yes&mm=29&mn=sn-bg07dnze&ms=rdu&mt=1571781165&mv=m&mvi=2&pl=36&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRgIhAOqWKuOlxztV13io5hAdiMWzFGZTLptxtNF4cPTMsMR6AiEA-tF0ihVy6Ld5C_twuqJ5cc4sl1Tgay3682dixbYIpIE=
-
-#EXTINF:-1 tvg-id="BOMDOUTOR3TEMEP1" tvg-name="BOM DOUTOR 3TEM EP1"https://comando4kfilmes.com/wp-content/uploads/2019/10/The-Good-Doctor.jpg" group-title="BOM DOUTOR 3TEM EP1",BOM DOUTOR 3TEM EP1
-https://r3---sn-b8u-btoz.googlevideo.com/videoplayback?expire=1571619985&ei=EZSsXY6fOb-DzLUP0fKhsAw&ip=2804:7f3:38b:3273:79ff:93ca:21e4:ba52&id=08a49fac706bc716&itag=18&source=blogger&mm=31&mn=sn-b8u-btoz&ms=au&mv=m&mvi=2&pl=36&susc=bl&mime=video/mp4&dur=2542.027&lmt=1569977152111613&mt=1571591035&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ALgxI2wwRgIhAMTkdU-gF85UaM0A1Rh7rSnL_nR0YtFerKU0QXBsY5dJAiEAzA4XLif28SPKo22LOuDMMxp6GnTGH9WDYnvpFnBYTVE%3D&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgUk5JHnPQJwmZH5wGpqqEKDjhlRzkTWxEVGFckHs4AZECIA8YCNsdNBhdWFkfKLuZQX9JzQS0_5K6rMAdbGCTh5B8&cpn=tWzHXKdEP1x5f7oQ&c=WEB_EMBEDDED_PLAYER&cver=20191018
- 
-#EXTINF:-1 tvg-id="ATENTACAO" tvg-name="A TENTACAO" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="A TENTACAO",A TENTACAO
-https://huntley.best/bucket/v5/?v=63493-the-ledge.mp4
- 
-#EXTINF:-1 tvg-id="ATENTACAO" tvg-name="A TENTACAO" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="A TENTACAO",A TENTACAO
-http://bucket-v05.thepirate.me/hd/63493-the-ledge.mp4
-
-#EXTINF:-1 tvg-id="OSILENCIO" tvg-name="O SILENCIO" tvg-logo="https://m.xilften.org/wp-content/uploads/play.png" group-title="O SILENCIO",O SILENCIO
-https://huntley.best/bucket/v1/?v=527261-the-silence.mp4
-
-#EXTINF:-1 tvg-id="OSILENCIO" tvg-name="O SILENCIO" tvg-logo="https://m.xilften.org/wp-content/uploads/play.png" group-title="O SILENCIO",O SILENCIO DE MELINDA
-https://youtu.be/PxGPZkaQlRw
-
-#EXTINF:-1 tvg-id="OSILENCIO" tvg-name="O SILENCIO" tvg-logo="https://m.xilften.org/wp-content/uploads/play.png" group-title="O SILENCIO",O SILENCIO DE MELINDA
-https://www.youtube.com/watch?v=PxGPZkaQlRw&feature=youtu.be
-
-#EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 1
-https://docs.google.com/file/d/15dr7PGYTSWxGeXUZTRy0EK_elD0QLv8h/view 
-
-#EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 1
-https://r6---sn-4g5e6ney.googlevideo.com/videoplayback?expire=1571542815&ei=n2arXbbjDLPOzLUP8e6muAI&ip=91.134.248.211&id=f7e1bfc4238018fb&itag=18&source=blogger&mm=31&mn=sn-4g5e6ney&ms=au&mv=m&mvi=5&pl=21&susc=bl&mime=video/mp4&dur=2726.603&lmt=1555385362319140&mt=1571513932&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ALgxI2wwRQIgcFt4yGv025-sLc739KEMk833aJwm-NVGFXmk0mjHhMECIQCLqPr0W4yDsX7jFeIcUJQnpGSgZEvtaWPdM3virqgaIQ%3D%3D&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRQIgJBlMyGEzQo4BpcPA7641JjL6frZowev3HUD96K_ZbBQCIQCVW7JM1r8wRtBP9ArY6a_5TPDxZCpistmsU_AjkIvZoQ%3D%3D
-
-#EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 2
-https://docs.google.com/file/d/1qeWljc4O5FkcFWcovB5wuTdYhIX9HUG9/preview 
-
-#EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 3
-https://docs.google.com/file/d/1zPQrdz3bMC5Wd-1l1b0HQ3VcLDo8AC7W/preview
-
-#EXTINF:-1 tvg-id="AREIAMOVEDICA" tvg-name="AREIAMOVEDIA" tvg-logo="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiMv4DbjKnlAhWNErkGHXrHCL4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw0UiOtUTBAL4Ua8d3uQAIBC&ust=1571601164509986" group-title="AREIA MOVEDICA",AREIA MOVEDICA 1ªTEMP EP 6
-https://drive.google.com/file/d/1zPQrdz3bMC5Wd-1l1b0HQ3VcLDo8AC7W/view?usp=sharing
-
-#EXTINF:-1 tvg-id="aprofessoradojardimdeinfancia" tvg-name="a-professora-do-jardim-de-infancia" tvg-logo="http://www.filmesonlinex.ch/wp-content/uploads/2019/10/a-professora-do-jardim-de-infancia-capa-e1571499666273.jpg" group-title="a-professora-do-jardim-de-infancia",A professora dojardim de infancia
-https://www1361.hlsmp4.com/token=rvFp_IJ_tkTBs_vRfJymzQ/1571527637/2804:7f3::/78/3/0a/c1c821b51519ce8546f70bf9915e00a3-480p.mp4
-
-#EXTINF:-1 tvg-id="aprofessoradojardimdeinfancia" tvg-name="a-professora-do-jardim-de-infancia" tvg-logo="http://www.filmesonlinex.ch/wp-content/uploads/2019/10/a-professora-do-jardim-de-infancia-capa-e1571499666273.jpg" group-title="a-professora-do-jardim-de-infancia",A professora dojardim de infancia
-https://www213.hlsmp4.com/token=VyCh8dNZYhfdretVRESnkw/1571724602/2804:7f3::/74/b/fd/518d16280ffbb2439b7ea62eae4bbfdb-720p.mp4
-
-#EXTINF:-1 tvg-id="RAMBOATEOFIM" tvg-name="RAMBO ATE O FIM" tvg-logo="https://image.tmdb.org/t/p/w780/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg" group-title="RAMBO ATE O FIM",RAMBO ATE O FIM
-https://www213.hlsmp4.com/token=VyCh8dNZYhfdretVRESnkw/1571724602/2804:7f3::/74/b/fd/518d16280ffbb2439b7ea62eae4bbfdb-720p.mp4
-
-#EXTINF:-1 tvg-id="RAMBOATEOFIM" tvg-name="RAMBO ATE O FIM" tvg-logo="https://image.tmdb.org/t/p/w780/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg" group-title="RAMBO ATE O FIM",RAMBO ATE O FIM
-https://www1306.hlsmp4.com/token=D1MNY_cL16sFJ3QxlkSBog/1571723323/2804:7f3::/69/e/25/b3d8cf32935cc804a89135663f47c25e-720p.mp4
-
-#EXTINF:-1 tvg-id="RAMBOATEOFIM" tvg-name="RAMBO ATE O FIM" tvg-logo="https://image.tmdb.org/t/p/w780/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg" group-title="RAMBO ATE O FIM",RAMBO ATE O FIM
-https://www1306.hlsmp4.com/token=D1MNY_cL16sFJ3QxlkSBog/1571723323/2804:7f3::/69/e/25/b3d8cf32935cc804a89135663f47c25e-720p.mp4
-
-#EXTINF:-1 tvg-id="SCOOBYDOOAILHADOSZUMBIS" tvg-name="SCOOBY DOO A ILHA DOS ZUMBIS" tvg-logo="https://image.tmdb.org/t/p/w780/cXnlomnqXZF8Lvcev5UAJgfx4gt.jpg" group-title="SCOOBY DOO A ILHA DOS ZUMBIS",SCOOBY DOO A ILHA DOS ZUMBIS
-https://www65.hlsmp4.com/token=WCo_iDEijCumzZq33yWZnw/1571724982/2804:7f3::/63/a/b3/5ec1b0c8fa03ebeaca1831677943bb3a-720p.mp4
-
-#EXTINF:-1 tvg-id="SCOOBYDOOAILHADOSZUMBIS" tvg-name="SCOOBY DOO A ILHA DOS ZUMBIS" tvg-logo="https://image.tmdb.org/t/p/w780/cXnlomnqXZF8Lvcev5UAJgfx4gt.jpg" group-title="SCOOBY DOO A ILHA DOS ZUMBIS",SCOOBY DOO A ILHA DOS ZUMBIS
-https://www65.hlsmp4.com/token=WCo_iDEijCumzZq33yWZnw/1571724982/2804:7f3::/63/a/b3/5ec1b0c8fa03ebeaca1831677943bb3a-720p.mp4
-
-#EXTINF:-1 tvg-id="AMORTETEAGUARDA" tvg-name="A MORTE TE AGUARDA" tvg-logo="https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjQ66KekqnlAhX5IbkGHZmDAgsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw1ai2jo92GJw1q2pD2-x3pY&ust=1571602643009817" group-title="A MORTE TE AGUARDA",A MORTE TE AGUARDA
-https://www1605.hlsmp4.com/token=ioN7AQbuwt1re8I01phxtQ/1571724910/2804:7f3::/72/f/79/4ac279c18403dbbf37d03330bea0279f-720p.mp4
-
-#EXTINF:-1 tvg-id="AMORTETEAGUARDA" tvg-name="A MORTE TE AGUARDA" tvg-logo="https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjQ66KekqnlAhX5IbkGHZmDAgsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papelpop.com%2F2019%2F01%2F40-filmes-que-estreiam-em-2019-e-voce-nao-pode-perder%2F&psig=AOvVaw1ai2jo92GJw1q2pD2-x3pY&ust=1571602643009817" group-title="A MORTE TE AGUARDA",A MORTE TE AGUARDA
-https://www1605.hlsmp4.com/token=ioN7AQbuwt1re8I01phxtQ/1571724910/2804:7f3::/72/f/79/4ac279c18403dbbf37d03330bea0279f-720p.mp4
-
-#EXTINF:-1 tvg-id="ITCAPITULODOIS" tvg-name="It – Capítulo Dois" tvg-logo="https://image.tmdb.org/t/p/w780/4W0FnjSGn4x0mKZlBRx8OjFxQUM.jpg" group-title="It – Capítulo Dois",It – Capítulo Dois
-https://woof.tube/gettoken/w9EVkZK3i6~1571603032~2804:7f3::~ap-3RH7G?mime=true
-
-#EXTINF:-1 tvg-id="ITCAPITULODOIS" tvg-name="It – Capítulo Dois" tvg-logo="https://image.tmdb.org/t/p/w780/4W0FnjSGn4x0mKZlBRx8OjFxQUM.jpg" group-title="It – Capítulo Dois",It – Capítulo Dois
-https://www1665.hlsmp4.com/token=mEPI5CmXKPw6-3V6j4vTEQ/1571541674/2804:7f3::/65/0/e3/f2f3910c0a5192ee4ec84bd5aec0be30-720p.mp4
-
-#EXTINF:-1 tvg-id="ITCAPITULODOIS" tvg-name="It – Capítulo Dois" tvg-logo="https://image.tmdb.org/t/p/w780/4W0FnjSGn4x0mKZlBRx8OjFxQUM.jpg" group-title="It – Capítulo Dois",It – Capítulo Dois
-https://www1044.hlsmp4.com/token=WQ3CSfrHL5lDUbJe2ecixw/1571723984/2804:7f3::/73/8/95/6eefd45d5fc95af4e5d780811041a958-720p.mp4
-
-#EXTINF:-1 tvg-id="JurassicWorldBattleatBigRock" tvg-name="Jurassic World – Battle at Big Rock Legendado Online" tvg-logo="https://image.tmdb.org/t/p/w780/4W0FnjSGn4x0mKZlBRx8OjFxQUM.jpg" group-title="Jurassic World – Battle at Big Rock Legendado Online",Jurassic World – Battle at Big Rock Legendado Online
-https://www2030.hlsmp4.com/token=NL5plXGa_3413PiTzwz8TQ/1571725880/2804:7f3::/70/2/f8/c6bf5e2f791b26c584eed35f53e5ff82-720p.mp4
-
-#EXTINF:-1 tvg-id="JurassicWorldBattleatBigRock" tvg-name="Jurassic World – Battle at Big Rock Legendado Online" tvg-logo="https://image.tmdb.org/t/p/w780/iiu2uXbqAf2LXmEWqAqcnzaWjcu.jpg" group-title="Jurassic World – Battle at Big Rock Legendado Online",Jurassic World – Battle at Big Rock Legendado Online
-https://www2030.hlsmp4.com/token=NL5plXGa_3413PiTzwz8TQ/1571725880/2804:7f3::/70/2/f8/c6bf5e2f791b26c584eed35f53e5ff82-720p.mp4
-
-#EXTINF:-1 tvg-id="JurassicWorldBattleatBigRock" tvg-name="Jurassic World – Battle at Big Rock Legendado Online" tvg-logo="https://image.tmdb.org/t/p/w780/iiu2uXbqAf2LXmEWqAqcnzaWjcu.jpg" group-title="Jurassic World – Battle at Big Rock Legendado Online",Jurassic World – Battle at Big Rock Legendado Online
-https://www2030.hlsmp4.com/token=NL5plXGa_3413PiTzwz8TQ/1571725880/2804:7f3::/70/2/f8/c6bf5e2f791b26c584eed35f53e5ff82-720p.mp4
-
-#EXTINF:-1 tvg-id="operigosechamaana" tvg-name="O PERIGO SE CHAMA ANA" tvg-logo="https://image.tmdb.org/t/p/w780/jbMfZtei6aQABPSmQra7tU5ZScD.jpg" group-title="O PERIGO SE CHAMA ANA",O PERIGO SE CHAMA ANA
-https://www1083.hlsmp4.com/token=HQHPjYi2PEtSFElnQLPhjw/1571726112/2804:7f3::/72/d/ad/6cf1e20da3cbe1a44ee324bd4684eadd-720p.mp4
-
-#EXTINF:-1 tvg-id="paradisehlls" tvg-name="PARADISE HILLS" tvg-logo="https://image.tmdb.org/t/p/w780/kE6CAAJBtECOnDXyx4suUU79TCP.jpg" group-title="PARADISE HILLS",PARADISE HILLS
-https://www1689.hlsmp4.com/token=zeD0uXq7bf5O0gLuFWBlMA/1571725791/2804:7f3::/70/5/a1/e06d96bef0be30fd0efc6739c9d77a15-720p.mp4
-
-#EXTINF:-1 tvg-id="loise&lucamissaoparalua" tvg-name="loise & luca missao para lua" tvg-logo="https://image.tmdb.org/t/p/w780/ue8eo38BDg3ARqLmLDFXIGVCphg.jpg" group-title="loise & luca missao para lua",loise & luca missao para lua
-https://www1791.hlsmp4.com/token=zc5sE7ZKTIIDSoZgLHkbuQ/1571726011/2804:7f3::/70/8/49/859055c3994d01ba8dd23e60d760b498-720p.mp4
+<item>
+<title>AREIA MOVEDICA 5</title>
+https://docs.google.com/file/d/1zPQrdz3bMC5Wd-1l1b0HQ3VcLDo8AC7W/view 
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
+</item>
