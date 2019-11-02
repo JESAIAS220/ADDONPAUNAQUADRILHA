@@ -37,245 +37,23 @@ https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
 https://v5.ciclano.io:1443/8064/8064/chunklist_w1831324492.m3u8
 
-#EXTM3U
- 
-    #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79CgzTItU6Qc29xiH6n5xVP_7hRfXtIxlA7=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUTORIAL ", JDTUTORS IPTV ZAP:32999949430 LISTA 1 EM BREVE ATUALIZAÇAO DE LINK
-    https://www.youtube.com/watch?v=jQQjlqHTIbU
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79CgzTItU6Qc29xiH6n5xVP_7hRfXtIxlA7=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUTORIAL ", PESSOAL SE ESTIVER DEMORANDO PARA CARREGAR USE AS OUTRAS LISTA NO SITE BLZ
-    https://www.youtube.com/watch?v=jQQjlqHTIbU
- 
- 
- 
-    #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="https://sport-tv-guide.live/images/stations/a1233.png" group-title="ESPORTES",ESPN EXTRA  
- 
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1311.ts
- 
- 
- 
-    #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  " tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="ESPORTES",BAND SPORTS
-    http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1307.ts
- 
- 
- 
-    #EXTINF:-1 tvg-id="" tvg-name="COMBATE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/combate.png" group-title="ESPORTES",COMBATE    
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1308.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN  
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1477.ts
- 
- 
- #EXTINF:-1 tvg-id="" tvg-name="ESPN2  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN2
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1474.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="ESPORTES",FOX SPORTS
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1479.ts
- 
- 
- #EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1490.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORTV2
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1488.ts
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiereclubes.png" group-title="ESPORTES",PREMIERE CLUBES
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1487.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 2
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1480.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 3  
-http://paineltvfull.ml:8890/live/tvpro08/tdhfhf83663hfhfhd7d6/1481.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 4
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1482.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 5
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1483.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIERE 6
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1484.ts
- 
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAIS BR",GLOBO
 http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1399.ts
- 
- 
- 
- 
+  
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="CANAIS BR",SBT SP
 http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1300.ts
- 
- 
- 
- 
+  
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS BR",BAND SP
 http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1457.ts
- 
- 
- 
- 
+  
 #EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS BR",RECORD
 http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1468.ts
- 
- 
- 
- 
+  
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAIS BR",REDE TV
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1452.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png" group-title="FILMES",FOX PREMIUM
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1499.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="FOX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fox.png" group-title="FILMES",FOX  
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1498.ts
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title="FILMES",TNT
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1361.ts
- 
-#EXTINF:-1 tvg-id="" tvg-name="TNT " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title="FILMES",TNT SERIES
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1362.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="FILMES",TELECINE PIPOCA    
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1358.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="FILMES",TELECINE PREMIUM
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1359.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="FILMES",TELECINE ACTION
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1355.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="FILMES",WARNNER CHANNEL
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1527.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="FILMES",SPACE
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1350.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/megapix.png" group-title="FILMES",MEGAPIX  
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1347.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="HBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="FILMES",HBO  
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1502.ts
- 
+http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1452.ts 
  
 #EXTINF:-1 tvg-id="" tvg-name="FX  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="FILMES",FX
 http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1339.ts
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1920px-ZooMoo_logo.svg.png" group-title="DESENHOS",ZOOMOO
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1420.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tooncast.png" group-title="DESENHOS",TOONCAST
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1553.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title="DESENHOS",NICKELODEON  
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1551.ts
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/gloob.png" group-title="DESENHOS",kick jr
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1550.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png" group-title="DESENHOS",DISNEY XD
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1412.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyjr.png" group-title="DESENHOS",DISNEY JR
- http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1411.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="DESENHOS",DISNEY CHANNEL
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1410.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/boomerang.png" group-title="DESENHOS",BOOMERANG
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1539.ts
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET  
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1573.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1575.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY H&H
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1578.ts
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1584.ts
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1590.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="DOCUMENTARIOS",H2
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1589.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeo.png" group-title="DOCUMENTARIOS",NATGEO
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1595.ts
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1594.ts
- 
- #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globonews.png" group-title="NOTICIAS",GLOBO NEWS
- 
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1557.ts
- 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="NOTICIAS",RECORD NEWS
-http://paineltvfull.ml:8890/live/tvpro08/tdhfhf83663hfhfhd7d6/1426.ts
- 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandnews.png"group-title="NOTICIAS",BAND NEWS
-http://paineltvfull.ml:8890/live/tvpro088/tdhfhf83663hfhfhd7d6/1421.ts
 
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL	
 https://gcdn.2mdn.net/videoplayback/id/7eb2b87b2286e590/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3716142536/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/5E2934652CEFF08401FCA3ADDB9323B8FC08782E.A56FA935F7DDDA5A2B50B2DF6B9F6A655A7F32CE/key/ck2/file/file.mp4
@@ -288,3 +66,6 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2098977
 
 #EXTINF:-1 tvg-id="REDEBRASIL" tvg-name="REDE BRASIL" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="REDE BRASIL",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w406703580.m3u8
+
+#EXTINF:-1 tvg-id="cavaleirosdozodiaco" tvg-name="cavaleiros do zodiaco" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redebrasil.png" group-title="cavaleiros do zodiaco",cavaleiros do zodiaco
+http://cdnfe2.azureedge.net/RCServer01/videos/OCDZEP001.mp4?attachment=true
